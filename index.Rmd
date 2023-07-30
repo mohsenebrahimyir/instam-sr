@@ -1,0 +1,47 @@
+--- 
+title: Live INTAM Systematic Review
+# subtitle: |
+author: "Mohsen Ebrahimi"
+date: "2023-01-01"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: ./bib/references.bib
+url: https://mohsenebrahimyir.github.io/intam-sr/
+# favicon: 
+#   - img/favicon.ico
+# cover-image:
+#   - img/cover.jpg
+description: |
+  Transcranial brain stimulation for addiction treatment:
+  A live systematic review
+link-citations: yes
+linkcolor: blue
+github-repo: mohsenebrahimyir/intam-sr
+classoption: openany
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = FALSE,
+	fig.align = "center",
+	fig.pos = "!ht",
+	# fig.id = FALSE,
+	# fig.lp = NA,
+	message = FALSE,
+	warning = FALSE,
+	out.width = "95%"
+)
+```
+
+```{r include=FALSE}
+source("R/library.R")
+source("R/database.R")
+
+unlink("docs", recursive = TRUE)
+```
+
+# Transcranial brain stimulation for addiction treatment: A live systematic review {-}
+
+- Update date: 1/1/2023
+
+

@@ -1,0 +1,5 @@
+# Summary {-}
+
+## Contribution of countries and drug classes {-} 
+
+![**Global contribution to tES/TMS studies for addiction medicine.** The number of tES/TMS studies in each country, broken down by the type of addictive substance color coded for the type of intervention; tES in red and TMS in blue. Some of the studies included more than one type of addictive substance in their inclusion criteria. Note that only papers whose full text was in English were included, potentially leading to a relative over-representation of the majority of English-speaking countries. Abbreviation: tES: transcranial electrical stimulation, TMS: transcranial magnetic stimulation.](fig/figure-2.png){width=95%}
