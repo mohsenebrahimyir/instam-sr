@@ -106,4 +106,21 @@ knitr::include_graphics(path = "fig/stimulation-sessions-and-follow-up.png")
 ```
 
 
+```{r}
+caption <- '**Effects of target and positioning system on outcome measures.**  **a.** different types of positioning systems and stimulation targets broken down by outcome measure of interest and color-coded by the type of intervention; tES in red and TMS in blue. Note that all cells do not sum to 198 since some studies considered more than one outcome measures (tES=271, TMS=255, Total=526). **b.** The number of significant and non-significant supporting findings is based on the results reported in the abstract of each study.'
+```
+
+```{r target-and-positioning-system, fig.cap=caption}
+knitr::include_graphics(path = "fig/target-and-positioning-system.png")
+```
+
+
+```{r}
+caption <- '**Effects of positioning system on outcome measures in DLPFC stimulation.**  **a.** different types of positioning systems in DLPFC stimulation broken down by outcome measure of interest and color-coded by the type of intervention; tES in red and TMS in blue. Note that all cells do not sum to 198 since some studies considered more than one outcome measures (tES=271, TMS=255, Total=526). **b.** The number of significant and non-significant supporting findings is based on the results reported in the abstract of each study.'
+```
+
+```{r positioning-system-on-dlpfc, fig.cap=caption}
+knitr::include_graphics(path = "fig/positioning-system-on-dlpfc.png")
+```
+
 

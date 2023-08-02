@@ -10,8 +10,8 @@ fig:outcome-measure-in-tes-or-tms
 fig:study-design-and-control-condition
 fig:stimulation-dose
 fig:stimulation-sessions-and-follow-up
+fig:target-and-positioning-system
+fig:positioning-system-on-dlpfc
 fig:prisma-flowcharts-for-tms-studies
 fig:prisma-flowcharts-for-tes-studies
 fig:prisma-flowcharts-for-tus-studies
-fig:target-and-positioning-system
-fig:positioning-system-on-dlpfc
