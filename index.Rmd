@@ -36,7 +36,10 @@ knitr::opts_chunk$set(
 ```{r include=FALSE}
 source("R/library.R")
 source("R/database.R")
+```
 
+
+```{r include=FALSE}
 unlink("docs", recursive = TRUE)
 ```
 
